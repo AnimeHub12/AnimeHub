@@ -1,0 +1,53 @@
+
+.content_c_bg {
+
+    background-color: #1c1c1c;
+    padding: 20px;
+    min-height: 550px;
+
+}
+.content_c .name {
+    text-transform: uppercase;
+}
+.content_c .watch {
+    padding: 20px 0;
+}
+.content_c .sumer {
+    float: left;
+    width: 100%;
+}
+.sumer {
+    padding-bottom: 10px;
+    border-bottom: 1px solid #8d8d8d;
+    margin-bottom: 10px;
+}
+.clr {
+    clear: both;
+}
+.mirror_link {
+    clear: both;
+}
+h6 {
+    font-size: 15px;
+}
+.mirror_link .dowload {
+    float: left;
+    padding-bottom: 10px;
+    padding-right: 14px;
+    padding-top: 10px;
+}
+.mirror_link .dowload a {
+    font-weight: bold;
+    text-transform: uppercase;
+    color: #000;
+    display: block;
+    background-image: url(../img/dow.png);
+    background-size: 10px;
+    background-repeat: no-repeat;
+    background-position: 5px center;
+    background-color: #9a9a9a;
+    padding: 4px 3px 4px 12px;
+    width: 114px;
+    font-size: 10px;
+    text-align: center;
+}
