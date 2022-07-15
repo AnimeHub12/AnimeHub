@@ -33,3 +33,28 @@
 {
 	margin-top: 100px;
 }
+.not
+{
+	width: 100%;
+}
+.notfi
+{
+	height: 30px;
+	font-size: 20px;
+	width: 100%;
+	text-align: center;
+	background-color: yellow;
+	animation: animate 2s linear infinite;
+}
+
+@keyframes animate
+{
+	0%
+	{
+		transform: translateX(100%)
+	}
+	100%
+	{
+		transform: translateX(-100%);
+	}
+}
